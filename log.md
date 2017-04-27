@@ -11,6 +11,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link(s) to Work:**
 
+### Day 4: April 26, 2017
+
+**Today's Progress:** Day 3 of #dailycssimages.
+
+**Thoughts:** Need more practice drawing in CSS. Fortunately I have 47 days left.
+
+**Link(s) to Work:** http://codepen.io/Sarah_Elle/pen/aWBrex
+
 ### Day 3: April 25, 2017
 
 **Today's Progress:** Started CSS drawing course from @codingartist_io, finished Day 2 of #dailycssimages and Day 14 of #30Days30Sites.
