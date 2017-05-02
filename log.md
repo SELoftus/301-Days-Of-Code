@@ -11,6 +11,46 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link(s) to Work:**
 
+### Day 9: May 1, 2016
+
+**Today's Progress:** Finally finished Dora for Day 5 and a working digital clock for Day 6 of #dailycssimages (http://codepen.io.ln.is/g0hZa ).
+
+**Thoughts:** Dory will need to be revisited once I've got a little more skill under my belt. I think the 'perspective' command will help greatly.
+
+**Link(s) to Work:** http://codepen.io.ln.is/g0hZa
+
+### Day 8: April 30, 2016
+
+**Today's Progress:** CSS animation tutorial.
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+### Day 7: April 29, 2016
+
+**Today's Progress:** Still working on Dory for @dailycssimages, but she's getting there. & no longer looks like she'll eat your soul! #css
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+### Day 6: April 28, 2016
+
+**Today's Progress:** Tried to draw Dory in #CSS. Still trying for one that doesn't seem to want to devour your soul (Those EYES)
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+### Day 5: April 27, 2016
+
+**Today's Progress:** A mostly-finished tiger for Day 4 of #dailycssimages: http://codepen.io.ln.is/YxBkW . Still working on the stripes. #code
+
+**Thoughts:**
+
+**Link(s) to Work:** http://codepen.io.ln.is/YxBkW
+
 ### Day 4: April 26, 2017
 
 **Today's Progress:** Day 3 of #dailycssimages.
