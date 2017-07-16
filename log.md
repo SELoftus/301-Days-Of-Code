@@ -11,6 +11,211 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link(s) to Work:**
 
+### Day 75: July 11, 2017
+
+**Today's Progress:**  #dailysvgimages Day 7: Hear No Evil Monkey Emoji: https://codepen.io/Sarah_Elle/full/owJZJx/ …
+
+**Thoughts:**
+
+**Link(s) to Work:** https://codepen.io/Sarah_Elle/full/owJZJx/
+
+### Day 74: July 10, 2017
+
+**Today's Progress:** Day 6 of #dailysvgimages, Alien Emoji: https://codepen.io/Sarah_Elle/full/gRQLdE/ … 
+
+**Thoughts:**
+
+**Link(s) to Work:** https://codepen.io/Sarah_Elle/full/gRQLdE/
+
+### Day 71: July 7
+
+**Today's Progress:** Finished up Day 4 of #dailysvgimages, a Super Mario Bros. Cube: https://codepen.io/Sarah_Elle/full/mwGYZd/ …. CSS challenge & a CSS img.
+
+
+**Thoughts:**
+
+**Link(s) to Work:**
+https://codepen.io/Sarah_Elle/full/mwGYZd/
+
+### Day 67: July 4, 2017
+
+**Today's Progress:** Day 67: Started Daily SVG Images challenge, from @dailycssimages & built Toad for day 1.
+
+**Thoughts:**
+
+**Link(s) to Work:**
+https://t.co/N8n29W9X7Z
+
+### Day 50: June 15, 2017
+
+**Today's Progress:** Keyboard for Daily CSS Images. 
+
+**Thoughts:**
+
+**Link(s) to Work:** https://t.co/SLj4mVlniP
+
+### Day 41: June 5, 2017
+
+**Today's Progress:** JavaScript logo for Daily CSS Images, began building a site based on a PSD. 
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+### Day 28: May 20, 2017
+
+**Today's Progress:** Assignments 1.1 - 1.3 for Lambda School Mini Bootcamp.
+
+**Thoughts:**
+https://codepen.io/Sarah_Elle/pen/rmQazd
+https://codepen.io/Sarah_Elle/pen/YVRPro
+https://codepen.io/Sarah_Elle/pen/VbVYyJ
+
+**Link(s) to Work:**
+
+### Day 27: May 19, 2017
+
+**Today's Progress:** Finished wolfman for #dailycssimages & Mike from Monsters Inc.
+
+**Thoughts:**
+
+**Link(s) to Work:** https://t.co/fwdxh7pjet
+https://t.co/sQvB2eA5C4
+
+### Day 27: May 18, 2017
+
+**Today's Progress:** Most of a werewolf for cssdailyimages. Any recommended references/tutorials on drawing hands? CSS & pen&paper both OK.
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+
+### Day 26: May 17, 2017
+
+**Today's Progress:**
+
+**Thoughts:** Day 18 of #dailycssimages http://codepen.io/Sarah_Elle/full/GmXpoe/ … Count Orlock would like to make your acquaintance. 
+
+**Link(s) to Work:** http://codepen.io/Sarah_Elle/full/GmXpoe/
+
+### Day 25: May 16, 2017
+
+**Today's Progress:**
+
+**Thoughts:** #dailycssimages Day 17: Zombie
+
+**Link(s) to Work:** https://t.co/ErPRlh1QdM
+
+### Day 24: May 16, 2017
+
+**Today's Progress:**
+
+**Thoughts:** Day 16 #dailycssimages & what ended up being a kind of Art Deco-y Frankenstein's monster:
+
+**Link(s) to Work:** https://t.co/OBQaDuXZvF
+
+
+### Day 23: May 14, 2017
+
+**Today's Progress:** Did portfolio updating and maintenance for #dailycssimages portfolio page, and tested different typefaces. #coding
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+
+### Day 22: May 13, 2017
+
+**Today's Progress:** Added links to #dailycssimages portfolio page. #html #css #coding #code
+
+**Thoughts:** 
+
+**Link(s) to Work:**
+
+### Day 21: May 12, 2017
+
+**Today's Progress:** Day 15 of #dailycssimages, some #FlexboxZombies. 
+
+**Thoughts:** 
+
+**Link(s) to Work:**
+
+### Day 20: May 11, 2017
+
+**Today's Progress:** Cheesecake drawing for #dailycssimages 
+
+**Thoughts:**
+
+**Link(s) to Work:** https://t.co/OpQbn46fRN
+
+### Day 18: May 10, 2017
+
+**Today's Progress:** Day 12 #dailycssimages, some  http://flexboxzombies.com . 
+
+**Thoughts:** Learning should involve zombies as much as possible 
+
+**Link(s) to Work:**
+
+### Day 17: May 19, 2017
+
+**Today's Progress:** Drew a CSS pizza for #dailycssimages: http://ln.is/codepen.io/Sarah_Ell/5mp1i … #html #css
+
+**Thoughts:**
+
+**Link(s) to Work:** https://t.co/fC9d3uVx0H
+
+
+### Day 16: May 8, 2017
+
+**Today's Progress:** Experimenting with @CodePen's embed feature.
+
+**Thoughts:** 
+
+**Link(s) to Work:**
+
+
+### Day 15: May 7, 2017
+
+**Today's Progress:** Tidying up some code on #Dailycssimages drawings. 
+
+**Thoughts:**
+
+**Link(s) to Work:** https://t.co/vkddk3H0t3
+
+### Day 14: May 6, 2017
+
+**Today's Progress:** Pencil jar for day 10 #dailycssimages 
+
+**Thoughts:**
+
+**Link(s) to Work:** https://t.co/Sl88PTYAng
+
+### Day 13: May 5, 2017
+
+**Today's Progress:** Day 9 for #dailycssimages, a calendar. Still workingon flower color & fixing the centering:
+
+**Thoughts:**
+
+**Link(s) to Work:** https://t.co/Cv8B2ok9Fd
+
+### Day 12: May 4, 2017
+
+**Today's Progress:** Marker lines for yesterday's CSS ruler. Notepaper page drawn for today's #dailycssimages 
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+### Day 10: May 3, 2017
+
+**Today's Progress:** Drew a ruler for Day 8 #dailycssimages, still working on getting the ruler markings to look OK on larger screen sizes
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+
 ### Day 9: May 1, 2016
 
 **Today's Progress:** Finally finished Dora for Day 5 and a working digital clock for Day 6 of #dailycssimages (http://codepen.io.ln.is/g0hZa ).
