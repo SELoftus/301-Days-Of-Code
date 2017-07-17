@@ -3,6 +3,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 80: July 16, 2017
+
+**Today's Progress:** JavaScript Control Flow @Codecademy.
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
 ### Day : 
 
 **Today's Progress:**
